@@ -1,9 +1,9 @@
 InfoBegin
 InfoKey: CreationDate
-InfoValue: D:20241202234828+00&apos;00&apos;
-PdfID0: 1e5bd4d27ab699d7fe6a89bc322ca536
-PdfID1: 1e5bd4d27ab699d7fe6a89bc322ca536
-NumberOfPages: 7
+InfoValue: D:20241223032317+00&apos;00&apos;
+PdfID0: db18d5a0237413b19867e7e7d58cc173
+PdfID1: db18d5a0237413b19867e7e7d58cc173
+NumberOfPages: 4
 PageMediaBegin
 PageMediaNumber: 1
 PageMediaRotation: 0
@@ -21,21 +21,6 @@ PageMediaRect: 0 0 595.276 841.89
 PageMediaDimensions: 595.276 841.89
 PageMediaBegin
 PageMediaNumber: 4
-PageMediaRotation: 0
-PageMediaRect: 0 0 595.276 841.89
-PageMediaDimensions: 595.276 841.89
-PageMediaBegin
-PageMediaNumber: 5
-PageMediaRotation: 0
-PageMediaRect: 0 0 595.276 841.89
-PageMediaDimensions: 595.276 841.89
-PageMediaBegin
-PageMediaNumber: 6
-PageMediaRotation: 0
-PageMediaRect: 0 0 595.276 841.89
-PageMediaDimensions: 595.276 841.89
-PageMediaBegin
-PageMediaNumber: 7
 PageMediaRotation: 0
 PageMediaRect: 0 0 595.276 841.89
 PageMediaDimensions: 595.276 841.89
